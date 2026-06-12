@@ -115,10 +115,10 @@ const Home = () => {
 				<p>Professional air conditioning solutions.</p>
 
 				<div className='footer-links'>
-					<a href='#'>📘 Facebook</a>
-					<a href='#'>📱 WhatsApp</a>
-					<a href='#'>📧 Email</a>
-					<a href='#'>📞 +216 00 000 000</a>
+					<a href='https://facebook.com'>📘 Facebook</a>
+					<a href='https://whatsapp.com'>📱 WhatsApp</a>
+					<a href='https://gmail.com'>📧 Email</a>
+					<a href='https://tal.com'>📞 +216 00 000 000</a>
 				</div>
 
 				<p className='copyright'>© 2026 ClimaService. All Rights Reserved.</p>

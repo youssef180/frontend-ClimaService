@@ -39,7 +39,7 @@ const NavBar = () => {
 									Profile
 								</Nav.Link>
 
-								{user.role == "admin" ? (
+								{user.role === "admin" ? (
 									<>
 										<Nav.Link as={Link} to='/allUsers'>
 											Users

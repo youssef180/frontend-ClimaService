@@ -7,7 +7,7 @@ const ErrorsReducer = (state = initialState, action) => {
 		case HANDLEERROR:
 			return [...state, action.payload];
 		case CLEARERROR:
-			return state.filter((el, i, t) => el.id != action.payload);
+			return state.filter((el, i, t) => el.id !== action.payload);
 		default:
 			return state;
 	}

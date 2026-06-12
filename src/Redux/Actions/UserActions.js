@@ -9,7 +9,6 @@ import {
 } from "../ActionsTypes/UserTypes";
 import axios from "axios";
 import { handleError } from "./ErrorsActions";
-import Profile from "../../Components/Profile";
 
 const apiUrl = process.env.REACT_APP_API_URL;
 
