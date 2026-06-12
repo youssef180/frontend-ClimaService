@@ -1,0 +1,7 @@
+export const REGISTER = "REGISTER";
+export const FAIL = "FAIL";
+export const LOGIN = "LOGIN";
+export const CURRENTUSER = "CURRENTUSER";
+export const LOGOUT = "LOGOUT";
+export const EDITPROFILE = "EDITPROFILE";
+export const ALLUSERS = "ALLUSERS";
